@@ -232,4 +232,4 @@ This repository serves as the official landing page for Media Player Classic Hom
 **Get the most recent version of Media Player Classic Homecinema today!**
 
 ---
-**Last updated:** 2026-10-18 17:58:52 UTC
+**Last updated:** 2026-10-18 20:33:06 UTC
